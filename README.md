@@ -60,6 +60,13 @@ URL TESTED EN EL VIDEO -> https://www.youtube.com/shorts/LigUioT2BcE
 
 COMO CORRERLO EN EC2?
 
+Debemos crear una carpeta aparte, puedes ponerle el nombre que quieras y adentro pones tu llave que finaliza en .pem
+
+Una vez resalizado esto vamos a conectar, por SSH CLIENT 
+
+![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/ed4656a1-05f5-4b33-b0bf-8ef9f7f8127b)
+
+
 Instale Docker
 sudo yum update -y
 sudo yum install docker
@@ -75,8 +82,6 @@ docker run -d -p 42000:6000 --name firstdockerimageaws danielsperezb/parcialarep
 
 
 ![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/f10bd05e-0ba8-4223-b6f4-4b331465d615)
-
-
 
 
 ![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/870b76d1-d56c-461d-9136-2f2505dd6e69)
