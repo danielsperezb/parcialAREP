@@ -30,7 +30,7 @@ AWS:
 
 ![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/b4edb119-887e-44ad-89f8-2f2802ea016e)
 
-URL TESTED EN EL VIDEO ->
+URL TESTED EN EL VIDEO -> https://www.youtube.com/shorts/LigUioT2BcE
 
 COMO CORRERLO EN EC2?
 
