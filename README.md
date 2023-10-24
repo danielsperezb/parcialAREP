@@ -1,6 +1,20 @@
 # parcialAREP
 Parcial 2 AREP
 
+COMO CLONAR EL PROYECTO?
+
+ git clone https://github.com/danielsperezb/parcialAREP.git
+
+Ejecutas el anterior comando en la carpera que te quede mas comodo, hay maneras de correrlo:
+
+1. AWS pero lastimosaente deberiamos dejar el servidor prendido para ver su funcionamiento, se  deja un video de Youtube para su visualizacion  https://www.youtube.com/shorts/LigUioT2BcE
+
+2. Usa tu IDLE preferido puede ser NETBEANS y lo ejecutas RUN de manera interactiva
+
+3. En CMD puedes correr el siguiente comando java -cp "target/classes;target/dependency/*" com.mycompany.parcialarep.ParcialAREP
+
+
+
 LOCAL:
 
 ![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/8d7b649e-6c6b-4109-a540-e6d1953d2550)
