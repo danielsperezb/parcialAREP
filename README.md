@@ -46,8 +46,10 @@ IMAGEENES
 
 
 
-DOCKER HUB EN MI PERFIL
+DOCKER HUB EN MI PERFIL (cuenta) 
 ![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/d46821c4-261e-4665-8363-96c059b89512)
+
+docker push danielsperezb/parcialarep:tagname
 
 AWS:
 
