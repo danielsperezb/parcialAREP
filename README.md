@@ -9,12 +9,15 @@ Antes de todo nunca estaria mal: Ejecutar "mvn clean install" en la ubicacion de
 
 Ejecutas el anterior comando en la carpera que te quede mas comodo, hay maneras de correrlo:
 
-1. AWS pero lastimosaente deberiamos dejar el servidor prendido para ver su funcionamiento, se  deja un video de Youtube para su visualizacion  https://www.youtube.com/shorts/LigUioT2BcE
+1. AWS pero lastimosaente deberiamos dejar el servidor prendido para ver su funcionamiento (http://ec2-54-196-27-135.compute-1.amazonaws.com:34000/), se  deja un video de Youtube para su visualizacion;  https://www.youtube.com/shorts/LigUioT2BcE
 
-2. Usa tu IDLE preferido puede ser NETBEANS y lo ejecutas RUN de manera interactiva
+2. Usa tu IDLE preferido puede ser NETBEANS y lo ejecutas RUN de manera interactiva http://localhost:4500/
 
-3. En CMD puedes correr el siguiente comando java -cp "target/classes;target/dependency/*" com.mycompany.parcialarep.ParcialAREP
+3. En CMD puedes correr el siguiente comando java -cp "target/classes;target/dependency/*" com.mycompany.parcialarep.ParcialAREP http://localhost:4500/
 
+5. Uno de los mas sencillos es ejecutar en cmd dentro de este proyecto clonado: "docker-compose up -d"    http://localhost:42000/
+
+   
 
 
 LOCAL:
@@ -32,8 +35,12 @@ Corriedo con docker de manera local:
 
 ![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/cd2eecdc-8488-4689-ba0a-4ef8d368e879)
 
+DOCKER DE MANERA LOCAL PERO CON DOCKER-COMPOSE.YML 
+
+![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/1239e9c3-3225-4a67-97ca-fc59ea9fc1fc)
 
 
+DOCKER HUB EN MI PERFIL
 ![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/d46821c4-261e-4665-8363-96c059b89512)
 
 AWS:
