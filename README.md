@@ -23,6 +23,17 @@ LOCAL:
 
 DOCKER HUB:
 
+Corriedo con docker de manera local:
+
+![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/adfd06c1-47a0-40d7-9fae-57fc0f0213c1)
+
+![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/37620e63-d38c-4de4-983d-a2072f9676d9)
+
+
+![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/cd2eecdc-8488-4689-ba0a-4ef8d368e879)
+
+
+
 ![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/d46821c4-261e-4665-8363-96c059b89512)
 
 AWS:
