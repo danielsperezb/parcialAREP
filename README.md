@@ -47,3 +47,14 @@ docker run -d -p 42000:6000 --name firstdockerimageaws danielsperezb/parcialarep
 
 
 ![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/f10bd05e-0ba8-4223-b6f4-4b331465d615)
+
+
+
+
+![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/870b76d1-d56c-461d-9136-2f2505dd6e69)
+
+Respuesta JSON:
+
+![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/65951834-5400-43f5-8fe0-f3263fd694ba)
+
+
