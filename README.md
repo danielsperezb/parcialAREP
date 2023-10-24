@@ -30,14 +30,20 @@ Corriedo con docker de manera local:
 
 ![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/adfd06c1-47a0-40d7-9fae-57fc0f0213c1)
 
-![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/37620e63-d38c-4de4-983d-a2072f9676d9)
 
-
-![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/cd2eecdc-8488-4689-ba0a-4ef8d368e879)
 
 DOCKER DE MANERA LOCAL PERO CON DOCKER-COMPOSE.YML 
 
 ![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/1239e9c3-3225-4a67-97ca-fc59ea9fc1fc)
+
+
+RESUMEN DE COMO QUEDO MI DOCKER EN MI PC:
+
+CONTENEDORES
+![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/88ac4d25-904b-4005-b5c9-c48c86fc26a9)
+IMAGEENES
+![image](https://github.com/danielsperezb/parcialAREP/assets/101849347/f773b848-6676-4b6e-985a-a42dd4dfad70)
+
 
 
 DOCKER HUB EN MI PERFIL
